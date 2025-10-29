@@ -3,7 +3,7 @@ Remake du tp banque (que les SLAM on eu durant le BTS)
 
 # Détails du TP
 
-- Langage utilisé : C#
+- Langage utilisé : Java
 
 
 # Énoncer (Première partie)
