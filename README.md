@@ -6,7 +6,7 @@ Remake du tp banque (que les SLAM on eu durant le BTS)
 - Langage utilisé : Java
 
 
-# Énoncer (Première partie)
+# Énoncé (Première partie)
 
 Notre mini application devra pouvoirs géré les soldes bancaires de plusieurs clients, pour ce faire, toutes données manipuler sront sous forme décimals.
 
